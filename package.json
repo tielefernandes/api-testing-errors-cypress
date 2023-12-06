@@ -1,0 +1,15 @@
+{
+  "name": "api-testing-errors-cypress",
+  "version": "1.0.0",
+  "description": "Project to demonstrate how to test API error scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": ["API Testing"],
+  "author": "Tiele Fernandes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
