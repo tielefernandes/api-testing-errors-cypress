@@ -1,10 +1,9 @@
-# api-testing-errors-cypress
 
-Installation
+## Installation
+Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
 
-Run npm install (or npm i for the short version) to install the dev dependencies.
-Tests
+## Tests
 
-Run npm test (or npm t for the short version) to run the test in headless mode.
+Run `npm test` (or `npm t` for the short version) to run the test in headless mode.
 
-Or, run npm run cy:open to open Cypress in interactive mode.
+Or, run `npx cypress open` to open Cypress in interactive mode.
