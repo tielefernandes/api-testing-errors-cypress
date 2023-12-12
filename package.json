@@ -6,10 +6,13 @@
   "scripts": {
     "test": "cypress run"
   },
-  "keywords": ["API Testing"],
+  "keywords": [
+    "API Testing"
+  ],
   "author": "Tiele Fernandes",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.1"
+    "cypress": "^13.6.1",
+    "cypress-diff": "^0.0.5"
   }
 }
